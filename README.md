@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nnadozie Opara
-- 👀 I’m interested in Data Structures ans Algorithm, and Computational Geometry
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Computational Geometry task
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Structures ans Algorithm, Computational Geometry, Software development and Mathematics
+- 🌱 I’m currently learning HTML, CSS and Java Script
+- 💞️ I’m looking to collaborate on anything related to my interest
+- 📫 How to reach me ... nnadozieopara@yahoo.com
 
 <!---
 nnadozieopara/nnadozieopara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
